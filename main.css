@@ -5,3 +5,10 @@
     justify-content: center;
     align-items: center;
 }
+@font-face {
+    font-family: joryFirstFont;
+    src: url(assets/MartianMono-VariableFont_wdth\,wght.ttf);
+}
+body{
+    font-family: joryFirstFont;
+}
