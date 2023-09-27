@@ -38,7 +38,7 @@ body{
     /* margin: 0.1rem; */
     /* margin-left: 5px; */
 }
-#sim4{
+/* #sim4{
     background-color: teal;
     color: whitesmoke;
     padding: 1rem;
@@ -48,8 +48,8 @@ body{
 #sim4:hover{
     box-shadow: 0 4px 30px 2px rgb(89, 160, 160);
     transform: translateY(-4px);
-}
-/* .portbutton{
+} */
+.portbutton{
     background-color: teal;
     color: whitesmoke;
     padding: 1rem;
@@ -60,7 +60,7 @@ body{
 .portbutton:hover{
     box-shadow: 0 4px 30px 2px rgb(89, 160, 160);
     transform: translateY(-4px);
-} */
+}
 
 /* * {
     margin: 0;
