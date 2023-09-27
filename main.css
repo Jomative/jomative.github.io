@@ -15,6 +15,7 @@ body{
     padding: 0px;
     font-family: joryFirstFont;
     margin:0px;
+    background-color: antiquewhite;
 }
 .shadow{
     box-shadow: 0 2px 20px 2px rgb(89, 160, 160);
@@ -35,8 +36,14 @@ body{
     font-size: 35px;
     color: whitesmoke;
     opacity: 0.7;
+    
     /* margin: 0.1rem; */
     /* margin-left: 5px; */
+}
+#navbar > *:hover{
+    cursor: default;
+    /* transform:translateY(4px); */
+    opacity: 0.3;
 }
 /* #sim4{
     background-color: teal;
