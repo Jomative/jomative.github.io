@@ -78,3 +78,9 @@ body{
     vertical-align: baseline;
     background: transparent;
 } */
+
+.btn-cont{
+    display:flex;
+    flex-direction:column;
+    gap:1.5rem;
+}
